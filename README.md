@@ -76,7 +76,7 @@ mlp-activations-tutorial/
 └── LICENSE (MIT)                                 # Open-source license
 How to Run the Notebook
 1. Clone the repository
-git clone https://github.com/yourusername/mlp-activations-tutorial
+git clone https://github.com/Ram-sai7/MLP_Activation_Functions/commits?author=Ram-sai7
 cd mlp-activations-tutorial
 
 2. Install dependencies
