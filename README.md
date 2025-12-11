@@ -56,24 +56,11 @@ This structure cannot be separated by a linear model and therefore provides an e
 All dataset generation code is included in the notebook.
 Repository Structure
 mlp-activations-tutorial/
-│
-├── notebook/
-│   └── mlp_peanut_donut_with_figures.ipynb      # Main Jupyter notebook
-│
-├── data/                                         # Dataset folder
-│   └── peanut_donut_dataset.csv                  # Custom dataset (CSV)
-│
-├── figures/                                      # Auto-generated figures
-│   ├── fig_dataset.png
-│   ├── fig_activations.png
-│   ├── fig_training_loss.png
-│   └── fig_decision_boundaries.png
-│
-├── tutorial.pdf                                  # Final written tutorial/report
-│
-├── README.md                                     # Project documentation
-│
-└── LICENSE (MIT)                                 # Open-source license
+LICENSE
+README.md
+Understanding MLP Functions Tutorial.pdf
+mlp_fun_notebook.ipynb
+peanut_donut_dataset.csv
 How to Run the Notebook
 1. Clone the repository
 git clone https://github.com/Ram-sai7/MLP_Activation_Functions/commits?author=Ram-sai7
