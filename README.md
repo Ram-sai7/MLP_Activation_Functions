@@ -63,7 +63,7 @@ mlp_fun_notebook.ipynb
 peanut_donut_dataset.csv
 How to Run the Notebook
 1. Clone the repository
-git clone https://github.com/Ram-sai7/MLP_Activation_Functions/commits?author=Ram-sai7
+git clone https://github.com/Ram-sai7/MLP_Activation_Functions.git
 cd mlp-activations-tutorial
 
 2. Install dependencies
